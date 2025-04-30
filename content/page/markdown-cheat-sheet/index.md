@@ -3,7 +3,7 @@ title: "Markdown Cheat Sheet Ⓜ️⬇️"
 description: "An overview of basic markdown syntax."
 draft: false
 tags: ["Featured"]
-images: ["markdown-guide-og.jpg"]
+images: ["leetchat_icon.png"]
 keywords: ["markdown cheat sheet","markdown","cheat sheet", "hugo markdown cheat sheet", "goldmark"]
 aliases:
   - blog/my-third-blog-post
